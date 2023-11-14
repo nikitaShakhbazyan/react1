@@ -14,3 +14,7 @@
 .navButton:hover {
     background-color: lightblue;
 }
+.mainDiv {
+    background-color: rgb(156, 5, 156,0.4);
+    border-radius: 30px;
+}
